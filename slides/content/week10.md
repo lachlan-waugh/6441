@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Week10"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,7 +9,7 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# {{ replace .Name "-" " " | title }}
+# Week10
 ### T11A COMP6441
 
 ---
@@ -21,6 +21,12 @@ We expect a high standard of professionalism from you at all times while you are
 *TLDR: Don't be a ~~dick~~ jerk*
 
 [sec.edu.au/good-faith-policy](https://sec.edu.au/good-faith-policy)
+
+---
+
+{{% section %}}
+
+{{% section %}}
 
 ---
 

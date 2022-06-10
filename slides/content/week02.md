@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "Week02"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,7 +9,7 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# {{ replace .Name "-" " " | title }}
+# Week02
 ### T11A COMP6441
 
 ---
