@@ -1,7 +1,16 @@
 <style>#downloads { display: none !important; }</style>
 
 ## slides
-* [week-01](/1234/week01)
+*TODO: migrate the actual content into the slides, l0l*
+* [week-01](/6441/week01)
+* [week-02](/6441/week02)
+* [week-03](/6441/week03)
+* [week-04](/6441/week04)
+* [week-05](/6441/week05)
+* [week-07](/6441/week07)
+* [week-08](/6441/week08)
+* [week-09](/6441/week09)
+* [week-10](/6441/week10)
 
 &nbsp;
 
