@@ -1,16 +1,14 @@
-<style>#downloads { display: none !important; }</style>
-
 ## slides
 *TODO: migrate the actual content into the slides, l0l*
-* [week-01](/6441/week01)
-* [week-02](/6441/week02)
-* [week-03](/6441/week03)
-* [week-04](/6441/week04)
-* [week-05](/6441/week05)
-* [week-07](/6441/week07)
-* [week-08](/6441/week08)
-* [week-09](/6441/week09)
-* [week-10](/6441/week10)
+* week01 [slides](/6441/week01) [~~recording~~]()
+* week02 [slides](/6441/week02) [~~recording~~]()
+* week03 [slides](/6441/week03) [~~recording~~]()
+* week04 [slides](/6441/week04) [~~recording~~]()
+* week05 [slides](/6441/week05) [~~recording~~]()
+* week07 [slides](/6441/week07) [~~recording~~]()
+* week08 [slides](/6441/week08) [~~recording~~]()
+* week09 [slides](/6441/week09) [~~recording~~]()
+* week10 [slides](/6441/week10) [~~recording~~]()
 
 &nbsp;
 

@@ -30,7 +30,7 @@ outputs: ["Reveal"]
 
 * lachlan.waugh@student.unsw.edu.au
 * [@melon]() on the SecEdu Slack
-* [@lachaln#8250]() on the SecSoc Discord
+* [@melon#8250]() on the SecSoc Discord
 
 ---
 
