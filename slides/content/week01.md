@@ -19,16 +19,13 @@ outputs: ["Reveal"]
 ## > whoami
 
 * Lachlan
-* CompSci (Security) / Maths
-* 4th year 👴
-* Water enthusiast
-* Hater of computers
+* TODO: more stuff here
 
 ---
 
 ## how to contact me
 
-* lachlan.waugh@student.unsw.edu.au
+* z5256275@unsw.edu.au
 * [@melon]() on the SecEdu Slack
 * [@melon#8250]() on the SecSoc Discord
 
@@ -36,21 +33,13 @@ outputs: ["Reveal"]
 
 ## places for course discussion
 
+* [discord.gg/TODO](https://discord.gg/TODO)
+    * ~/security/ > comp6441-6841
+
 * [seceduau.slack.com/signup](https://seceduau.slack.com/signup)
     * #cs6441
-    * #cs6441-22t1-t11a
 
 {{% /section %}}
-
----
-
-## Good faith policy
-
-We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times
-
-*TLDR: Don't be a ~~dick~~ jerk*
-
-[sec.edu.au/good-faith-policy](https://sec.edu.au/good-faith-policy)
 
 ---
 
@@ -81,14 +70,23 @@ We expect a high standard of professionalism from you at all times while you are
 ---
 
 ## OpenLearning
-* A walkthrough?? wow!
+* Walkthrough (wow!)
 * Join the H11A Tutorial Group (a lot of you have already!)
-* Change your profile picture to a picture of yourself?
+* Change your profile picture to a picture of yourself
+
+---
+
+## Good faith policy
+
+We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times
+
+*TLDR: Don't be a ~~dick~~ jerk*
+
+[sec.edu.au/good-faith-policy](https://sec.edu.au/good-faith-policy)
 
 ---
 
 {{% section %}}
-
 # Content
 
 ---
@@ -128,10 +126,16 @@ We expect a high standard of professionalism from you at all times while you are
 ---
 
 # Case Study
+![]()
 
 ---
 
-Questions?
+## Questions?
+
+---
+
+## Feedback
+![]()
 
 ---
 
@@ -140,6 +144,15 @@ Questions?
 * A few more weekly challenges, "extra" exam questions, and an extra lecture hour each week.
 * If you're technically-inclined, I'd recommend 6841.
 * Generally extended security courses are intended for people with an interest in pursuing security-adjacent careers
+
+---
+
+## Other security courses
+* COMP6[84]43
+* COMP6[84]45
+* COMP6447
+* COMP9447
+* COMP6448
 
 ---
 
