@@ -248,7 +248,7 @@ SELECT * FROM users WHERE user = '' OR 1=1 --'and password = '...'
 
 ---
 
-### Issues you may encounter
+### issues you may encounter
 * syntax needs to be correct, or you'll throw an error
   * so, determine syntax through errors/fingerprint
 
