@@ -16,9 +16,8 @@ outputs: ["Reveal"]
 
 {{% section %}}
 
----
-
 ## housekeeping
+![]()
 
 ---
 
