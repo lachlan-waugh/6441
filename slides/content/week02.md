@@ -1,5 +1,5 @@
 ---
-title: "Week02"
+title: "02: sqli"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,8 +9,8 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# Week02
-### T11A COMP6441
+# sqli
+### 6441 week02
 
 ---
 
