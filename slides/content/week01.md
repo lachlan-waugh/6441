@@ -1,5 +1,5 @@
 ---
-title: "Week01"
+title: "01: intro"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -9,7 +9,7 @@ outputs: ["Reveal"]
 ---
 
 {{< slide class="center" >}}
-# course intro && sqli
+# course intro
 ### 6841 week01
 
 ---

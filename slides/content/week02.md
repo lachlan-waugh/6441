@@ -10,7 +10,7 @@ outputs: ["Reveal"]
 
 {{< slide class="center" >}}
 # sqli
-### 6441 week02
+### 6841 week02
 
 ---
 
@@ -22,7 +22,7 @@ outputs: ["Reveal"]
 ---
 
 ### class notes
-Our tutorial is scheduled to do the lecture notes for the ???? lecture of week ????
+our tutorial is scheduled to do the lecture notes for the wednesday lecture of week 4
 
 ---
 
@@ -56,22 +56,27 @@ Try to focus on analysis, rather than just noting down what you read
 
 ---
 
-Plan everything now, before you start working on it.
-Maybe post your own marking/success criteria (pls).
-Post weekly update blogs!
-* Easier for me to determine how much time you've put in
-* Stops you from leaving it all until the last minute
-* Research report, CTF
+### what to do now
+* plan it now, before you start working on it.
+* work on your marking criteria (pls).
+* post weekly update blogs!
+    * Easier for me to determine how much time you've put in
+    * Stops you from leaving it all until the last minute
 
 ---
 
-You should spend around 30 hours total on it.
-At the end of term, you present what you produced, you record a video presentation (marked), and present it during the tutorial (not marked)
-If your SA has something targeting other people/places, you need their express permission (e.g. if you're auditing your workplace)
+### what to do throughout the term
+* you should spend around 30 hours total on it.
+* at the end of term, you present what you produced
+    * you record a video presentation (marked), and
+    * present it during the tutorial (not marked)
+
+> if it has something targeting others, you need their express permission
 
 ---
 
-Everyone, share what you're planning on doing for your Something Awesome!
+### who doesn't love presenting
+share what you're planning on doing for your Something Awesome!
 
 {{% /section %}}
 
@@ -92,14 +97,21 @@ some stuff I forgot to mention last week
 
 ---
 
-## other security courses
-in order of goodness
-
+### other security courses
+ones i've done, in order of goodness
 * COMP6447
 * COMP6[84]43
 * MATH3411
 * COMP9447
 * COMP6[84]45
+
+---
+
+### even more
+others I haven't done
+* COMP9301
+* COMP6448
+* COMP4337
 
 {{% /section %}}
 
@@ -127,29 +139,15 @@ in order of goodness
 
 ---
 
-questions?
+# questions?
 
-## SQL
+---
 
 {{% section %}}
-> Structured Query Language
+
+# SQL
+> structured query language
 * SQLite, PostgreSQL, MySQL, MSSQL Server
-
----
-
-> Fingerprinting
-* work out the flavour/version
-	* **MySQL**: `Version()`
-	* **SQLite**: `sqlite_version()`
-	* **MSSQL**: `@@Version`
-
----
-
-> Finding the schema
-* what tables exist, what do they look like?
-	* **MySQL**: `information_schema.[tables|columns]`
-	* **SQLite**: `sqlite_[master|schema]`
-	* **MSSQL**: `SHOW TABLES; DESCRIBE <table_name>`
 
 ---
 
@@ -183,13 +181,29 @@ SELECT \* FROM table WHERE ...
 		 		                      	    | blog3 | admin |
       users     		   blogs        	|=======|=======|
 ```
-	
+
 ---
 
 ## Notes on UNIONs
 * the query needs to extract the same number of columns from both tables
 * the data-type for the columns must be compatible
 * you can also UNION the same table
+
+---
+
+> fingerprinting
+* work out the flavour/version
+	* **MySQL**: `Version()`
+	* **SQLite**: `sqlite_version()`
+	* **MSSQL**: `@@Version`
+
+---
+
+> finding the schema
+* what tables exist, what do they look like?
+	* **MySQL**: `information_schema.[tables|columns]`
+	* **SQLite**: `sqlite_[master|schema]`
+	* **MSSQL**: `SHOW TABLES; DESCRIBE <table_name>`
 
 {{% /section %}}
 
