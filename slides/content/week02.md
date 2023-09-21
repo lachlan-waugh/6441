@@ -46,9 +46,20 @@ Try to focus on analysis, rather than just noting down what you read
 ---
 
 ### technical questions
-* Just showing you solved it (e.g. a flag) isn't really enough
-* Show me what you didn't work (can you show me why it didn't work? or why YOU didn't think it worked)
-* Show me the process you took to get the solution, not the solution!
+* just showing you solved it (e.g flag) isn't enough
+* show me what you didn't work (and why not? or why YOU didn't think it worked)
+* show me the process you took to get the solution, not the solution!
+
+---
+
+### what do I want
+do just this stuff
+
+* case study analysis
+* extended challenge (e.g. SQLi, XSS)
+* 50%\* of the other challenges 
+
+> \* rounded up
 
 ---
 
