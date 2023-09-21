@@ -17,7 +17,7 @@ outputs: ["Reveal"]
 {{% section %}}
 
 ## housekeeping
-![]()
+![](../assets/img/broom.gif)
 
 ---
 
@@ -26,22 +26,31 @@ our tutorial is scheduled to do the lecture notes for the wednesday lecture of w
 
 ---
 
+### class representatives
+you get to attend meetings with Richard?
+
+* have they mentioned this?
+* if you want to nominate yourself, cool
+* maybe we can vote as a class?
+
+---
+
 ## logbooks
 
 ---
 
 ### feedback on logbooks
-* Some didn't do the learning community/dealing with challenges sections.
-    * This is worth 40% of the mark per week, you should do it.
-* if you're unsure how to approach the challenges/logbook, check out XXXXXX's logbook, it's very good
+* some didn't do the learning community/dealing with challenges sections.
+    * this is worth 40% of the mark per week, you should do it.
+* if you're unsure how to approach the it, check out some other people's logbook
 
 ---
 
 ### non-technical questions
-Try to focus on analysis, rather than just noting down what you read
-* What conclusions did you come to?
-* What made you come to them?
-* What did you learn?
+try to focus on analysis, rather than just noting down what you read
+* what conclusions did you come to?
+* what made you come to them?
+* what did you learn?
 
 ---
 
@@ -71,8 +80,8 @@ do just this stuff
 * plan it now, before you start working on it.
 * work on your marking criteria (pls).
 * post weekly update blogs!
-    * Easier for me to determine how much time you've put in
-    * Stops you from leaving it all until the last minute
+    * easier to determine how much time you put in
+    * stops you from leaving it all until the last minute
 
 ---
 
@@ -130,21 +139,41 @@ others I haven't done
 
 {{% section %}}
 
-### NIST password guidelines
-* Length > Complexity.
-* Eliminate Periodic Resets.
-* Enable “Show Password While Typing”
-* Allow Password “Paste-In”
-* Use Breached Password Protection.
-* Don't Use “Password Hints”
-* Limit Password Attempts.
-* Use Multi-Factor Authentication.
+### what is the most insecure part of
+* a system (e.g. a bank or banking app)?
+* password authentication (think outside the box)
 
 ---
 
-### What is the most insecure part of
-* a system (e.g. a bank or banking app)?
-* password authentication (think outside the box)
+### what is the CIA triad?
+
+* CDont hack me pls
+* Idk
+* A
+
+---
+
+### what is the general anatomy of an attack
+
+1. 
+2. 
+3.
+4.
+5.
+
+---
+
+### what is security by design
+
+* what is shifting security left?
+* why is this important/beneficial
+* proactive good, reactive bad?
+
+---
+
+### what are type I and II errors?
+
+this slide is intentionally blank
 
 {{% /section %}}
 
@@ -305,9 +334,9 @@ SELECT * FROM users WHERE user = '' OR 1=1 --'and password = '...'
 
 ---
 
-# Case Study
-![]()
+# Questions
 
 ---
 
-### 
+## Case Study
+![](../assets/img/week02/drill.gif)
