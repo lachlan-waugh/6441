@@ -1,5 +1,5 @@
 ---
-title: "Week03"
+title: "03: xss"
 layout: "bundle"
 outputs: ["Reveal"]
 ---
@@ -31,21 +31,65 @@ We expect a high standard of professionalism from you at all times while you are
 
 ---
 
-{{% section %}}
+### logbooks
+* Summary 👎
+    * "short, concise, and comprehensive version of a longer original work."
+* Analysis 👍
+    * "a breakdown of the examination and evaluation of an original document or text."
+    * cool people do this 😎!
 
 ---
 
+### weekly challenges
+* how are people finding them
+* have you been trying the extended challenges
+
+---
+
+{{% section %}}
+
 ### 
+Play 20 questions with the person next to you.
+* One person come up with "something"
+* The other person asks 20 yes-no questions, to try to determine what that "something" is.
+
+---
+
+### hacking
+Say you are the NSA, and you wanted to hack someone's phone, how would you do it?
+
+---
+
+
+### supply chain attacks
+only as strong as the weakest link...
+
+* Vulnerabilities in dependencies (either deliberate, or intentional)
+    * How do you know that the libraries/packages you use are secure?
+    * What about random applications that you install off the internet?
+
+---
+
+### log4j
+* Mixing up of data and control
+* Generally, internal systems won't be nearly as secure as external ones.
+
+---
+
+### solarwinds
+solarwinds123
 
 {{% /section %}}
+
+---
+
+{{% section %}}
 
 ## client-side injection
 * html injection
 * xss
 
 ---
-
-{{% section %}}
 
 ## html injection
 
@@ -58,7 +102,9 @@ We expect a high standard of professionalism from you at all times while you are
 
 ---
 
-### know your tags
+### so what can we inject
+
+know yours tags
 * some are paired `<div></div>`
 * some aren't `<img src=.../>`
 * what goes in here? `<script>...</script>`
@@ -86,8 +132,11 @@ We expect a high standard of professionalism from you at all times while you are
     * anything insecurely rendered on the page
 
 ```html
-www.example.com/database?q=eggs<script>alert(1)</script>
-you have searched for 'eggs<script>alert(1)</script>'
+<!-- www.example.com/database?q=dog -->
+you have searched for 'dog'
+
+<!-- www.example.com/database?q=<script>alert(1)</script> -->
+you have searched for '<script>alert(1)</script>'
 ```
 
 ---
@@ -118,7 +167,7 @@ you have searched for 'eggs<script>alert(1)</script>'
 ---
 
 ### xss isn't just `<script>` tags
-```javascript
+```js
 // event-handlers
 <img src=x onerror=alert(1)/>
  
@@ -144,7 +193,7 @@ const a = '<user_input>'
 ---
 
 ##  case study
-![](assets/img/week0/)
+![](assets/img/week03/door.gif)
 
 ---
 
