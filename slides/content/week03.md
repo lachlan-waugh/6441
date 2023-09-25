@@ -44,6 +44,8 @@ We expect a high standard of professionalism from you at all times while you are
 * how are people finding them
 * have you been trying the extended challenges
 
+{{% /section %}}
+
 ---
 
 {{% section %}}
