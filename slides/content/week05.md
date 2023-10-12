@@ -29,17 +29,44 @@ We expect a high standard of professionalism from you at all times while you are
 ## housekeeping
 ![](assets/img/broom.gif)
 
+---
+
+### make sure you're doing the extended challenges
+buffer overflows, format strings, xss, sqli
+
+* 
+
+{{% /section %}}
 
 
-{{% section %}}
 
 ---
 
+### public/private keys
 if 10 people wanted to communicate privately (one-on-one), how many:
 * AES keys/key-pairs would they need?
 * RSA keys/key-pairs would they need?
 
+---
+
+### bits of work
+How many bits of work will it take to brute-force a 6-character password (consisting of numeric digits, lower-case, and upper-case letters) if every password takes 10 bits of work to check
+
+* in the worst case?
+* in the average case?
+* in the best case?
+
+---
+
+### merkle puzzles
+* Suppose for a Merkle puzzle it takes 1 second to encrypt, 5 seconds to decrypt (if you have the key), 10 minutes to decrypt (bruteforcing)
+* Alice sends Bob 1000 puzzles so that Bob can select the key they are going to use for an upcoming encrypted chat.
+* Approx. how many seconds, on average, does it take Bob to choose a key, and communicate this to Alice?  (measure the elapsed duration from when Bob receives collection of puzzles to when he first replies to Alice)
+
+---
+
 ### 
+[rsa tutorial](https://featherbear.cc/tutoring-unsw-22t1-cs6441/rsa/tutorial.html) 
 
 {{% /section %}}
 
@@ -125,7 +152,7 @@ printf("%2x", a, b, c);
 ```C
 char buffer[30] = "the quick brown fox";
 printf("The length of '%s' is %d\n", buffer, strlen(buffer));
-// The length of 'the quick brown fox something something' is 19
+// The length of 'the quick brown fox' is 19
 ```
 
 ---
