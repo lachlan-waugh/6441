@@ -2,6 +2,9 @@
 * week01 [slides](week01) [~~recording~~]()
 * week02 [slides](week02) [~~recording~~]()
 * week03 [slides](week03) [recording]()
+* week04 [slides](week04) [~~recording~~]()
+* week05 [slides](week05) [~~recording~~]()
+* week07 [slides](week07) [~~recording~~]()
 
 &nbsp;
 
