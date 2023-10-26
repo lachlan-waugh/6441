@@ -70,17 +70,22 @@ time 2 shill
 
 ---
 
-### binary exploitation
+### binary exploitation (6447)
+if you enjoyed buffer overflows and format strings
 
-TODO
+> idk, ramble
+
+---
+
+### web exploitation (6443)
+if you enjoyed xss and sqli
+
+> idk, ramble
 
 ---
 
-### web exploitation
-
-TODO
-
----
+### ctf
+[comp6841.quoccabank.com](https://comp6841.quoccabank.com)
 
 {{% /section %}}
 
@@ -103,9 +108,6 @@ TODO
 &nbsp;
 
 ### IoT malware
-
----
-
 TODO
 
 {{% /section %}}
