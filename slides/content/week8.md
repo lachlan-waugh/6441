@@ -87,6 +87,15 @@ je/jne      # jumps based on a condition
 
 * read more [here](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 
+---
+
+### a note
+it's not super important to understand it all
+
+* you don't need to know what each individual instruction does
+* you're just trying to work out the overall purpose/functionality
+* get an understanding of the bigger picture, what the code did 
+
 {{% /section %}}
 
 ---
