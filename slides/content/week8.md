@@ -24,8 +24,6 @@ We expect a high standard of professionalism from you at all times while you are
 
 ---
 
-{{% section %}}
-
 ## housekeeping
 ![](assets/img/broom.gif)
 
