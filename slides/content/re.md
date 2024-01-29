@@ -36,7 +36,7 @@ outputs: ["Reveal"]
 
 ### required knowledge
 
-{{% section %}}
+{{% /section %}}
 
 ---
 
@@ -65,7 +65,7 @@ outputs: ["Reveal"]
 ### deobfuscation
 *degarbage*
 
-{{% section %}}
+{{% /section %}}
 
 ---
 
