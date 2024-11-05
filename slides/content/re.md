@@ -10,7 +10,7 @@ outputs: ["Reveal"]
 
 {{< slide class="center" >}}
 # Reverse Engineering
-### 6841 Lecture 7?
+### 6841 week9
 
 ---
 
@@ -20,21 +20,18 @@ outputs: ["Reveal"]
 
 ~~[sec.edu.au/good-faith-policy](https://sec.edu.au/good-faith-policy)~~
 
-**do this irl its cool**
+> do this irl its really cool
 
 ---
 
-### topics
-* req knowledge
-* static analysis
-* dynamic analysis
-* deobfuscation
+### shilling
+
 
 ---
 
 {{% section %}}
 
-### required knowledge
+### why reverse engineer
 
 {{% /section %}}
 
@@ -43,7 +40,9 @@ outputs: ["Reveal"]
 {{% section %}}
 
 ### static analysis
-*disassembling*
+*disassembling*: examine an executable without running it
+
+> e.g. ida, ghidra, radare, binary ninja
 
 ---
 
@@ -54,7 +53,15 @@ outputs: ["Reveal"]
 {{% section %}}
 
 ### dynamic analysis
-*debugging*
+*debugging*: examine an executable by running it
+
+e.g. **gdb**, windbg, cheat engine
+
+> allows you to examine the state of the program as it runs
+
+---
+
+> if you're using gdb, install an extension e.g. [pwndbg](https://github.com/pwndbg/pwndbg), [gef](https://github.com/hugsy/gef), or [peda](https://github.com/longld/peda)
 
 {{% /section %}}
 
