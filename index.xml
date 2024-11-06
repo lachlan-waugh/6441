@@ -5,7 +5,7 @@
  class="center">
  
 &lt;h1 id="course-intro">course intro&lt;/h1>
-&lt;h3 id="6841-week01">6841 week01&lt;/h3>
+&lt;h3 id="6841-week1">6841 week1&lt;/h3>
 &lt;hr>
 
 
@@ -44,7 +44,7 @@
 
 
 &lt;section data-shortcode-section>
-&lt;p>&lt;img src="../img/week01/icebreaker.jpg" alt="">&lt;/p>
+&lt;p>&lt;img src="../assets/img/1/icebreaker.jpg" alt="">&lt;/p>
 &lt;hr>
 &lt;h2 id="-whoru">&amp;gt; whoru&lt;/h2>
 &lt;ul>
@@ -70,7 +70,7 @@
  class="center">
  
 &lt;h1 id="sqli">sqli&lt;/h1>
-&lt;h3 id="6841-week02">6841 week02&lt;/h3>
+&lt;h3 id="6841-week2">6841 week2&lt;/h3>
 &lt;hr>
 
 
@@ -109,7 +109,7 @@
  class="center">
  
 &lt;h1 id="cross-site-scripting">cross-site scripting&lt;/h1>
-&lt;h3 id="6441-week03">6441 Week03&lt;/h3>
+&lt;h3 id="6841-week3">6841 week3&lt;/h3>
 &lt;hr>
 &lt;h2 id="good-faith-policy">good faith policy&lt;/h2>
 &lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
@@ -120,7 +120,7 @@
 
 &lt;section data-shortcode-section>
 &lt;h2 id="housekeeping">housekeeping&lt;/h2>
-&lt;p>&lt;img src="assets/img/broom.gif" alt="">&lt;/p>
+&lt;p>&lt;img src="../assets/img/broom.gif" alt="">&lt;/p>
 &lt;hr>
 &lt;h3 id="logbooks">logbooks&lt;/h3>
 &lt;ul>
@@ -149,14 +149,14 @@
 
 &lt;section data-shortcode-section>
 &lt;h3 id="heading">&lt;/h3>
-&lt;p>Play 20 questions with the person next to you.&lt;/p></description></item><item><title>04: overflows</title><link>/4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4/</guid><description>&lt;h2 id="well-get-started-at-1805">We&amp;rsquo;ll get started at 18:05&lt;/h2>
+&lt;p>Play 20 questions with the person next to you.&lt;/p></description></item><item><title>4: overflows</title><link>/4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/4/</guid><description>&lt;h2 id="well-get-started-at-1805">We&amp;rsquo;ll get started at 18:05&lt;/h2>
 &lt;hr>
 
 &lt;section data-noprocess data-shortcode-slide
  class="center">
  
 &lt;h1 id="buffer-overflows">buffer overflows&lt;/h1>
-&lt;h3 id="6441-week04">6441 week04&lt;/h3>
+&lt;h3 id="6841-week4">6841 week4&lt;/h3>
 &lt;hr>
 &lt;h2 id="good-faith-policy">good faith policy&lt;/h2>
 &lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
@@ -167,7 +167,7 @@
 
 &lt;section data-shortcode-section>
 &lt;h2 id="housekeeping">housekeeping&lt;/h2>
-&lt;p>&lt;img src="assets/img/broom.gif" alt="">&lt;/p>
+&lt;p>&lt;img src="../assets/img/broom.gif" alt="">&lt;/p>
 &lt;hr>
 &lt;h3 id="something-awesome">something awesome&lt;/h3>
 &lt;blockquote>
@@ -183,14 +183,48 @@
 &lt;/ul>
 &lt;hr>
 &lt;h3 id="collaborative-class-notes">collaborative class notes&lt;/h3>
-&lt;p>we&amp;rsquo;re writing the class notes for this weeks extended lecture&lt;/p></description></item><item><title>07: ctf</title><link>/7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7/</guid><description>&lt;h2 id="well-get-started-at-1805">we&amp;rsquo;ll get started at 18:05&lt;/h2>
+&lt;p>we&amp;rsquo;re writing the class notes for this weeks extended lecture&lt;/p></description></item><item><title>5: format strings</title><link>/5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/5/</guid><description>&lt;h2 id="well-get-started-at-1805">We&amp;rsquo;ll get started at 18:05&lt;/h2>
+&lt;hr>
+
+&lt;section data-noprocess data-shortcode-slide
+ class="center">
+ 
+&lt;h1 id="format-strings">format strings&lt;/h1>
+&lt;h3 id="6841-week5">6841 week5&lt;/h3>
+&lt;hr>
+&lt;h2 id="good-faith-policy">good faith policy&lt;/h2>
+&lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
+&lt;p>&lt;em>tldr: don&amp;rsquo;t be a &lt;del>dick&lt;/del> jerk&lt;/em>&lt;/p>
+&lt;p>&lt;a href="https://sec.edu.au/good-faith-policy">sec.edu.au/good-faith-policy&lt;/a>&lt;/p>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="housekeeping">housekeeping&lt;/h2>
+&lt;p>&lt;img src="../assets/img/broom.gif" alt="">&lt;/p>
+&lt;hr>
+&lt;h3 id="make-sure-youre-doing-the-extended-challenges">make sure you&amp;rsquo;re doing the extended challenges&lt;/h3>
+&lt;p>buffer overflows, format strings, xss, sqli&lt;/p>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+
+&lt;/section>
+&lt;hr>
+
+
+&lt;section data-shortcode-section>
+&lt;h2 id="questions">questions&lt;/h2>
+&lt;hr>
+&lt;h3 id="publicprivate-keys">public/private keys&lt;/h3>
+&lt;p>if 10 people wanted to communicate privately (one-on-one), how many:&lt;/p></description></item><item><title>7: ctf</title><link>/7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/7/</guid><description>&lt;h2 id="well-get-started-at-1805">we&amp;rsquo;ll get started at 18:05&lt;/h2>
 &lt;hr>
 
 &lt;section data-noprocess data-shortcode-slide
  class="center">
  
 &lt;h1 id="ctf-rootkits--more">ctf, rootkits &amp;amp;&amp;amp; more&lt;/h1>
-&lt;h3 id="6441-week07">6441 week07&lt;/h3>
+&lt;h3 id="6841-week7">6841 week7&lt;/h3>
 &lt;hr>
 &lt;h2 id="good-faith-policy">good faith policy&lt;/h2>
 &lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
@@ -198,7 +232,7 @@
 &lt;p>&lt;a href="https://sec.edu.au/good-faith-policy">sec.edu.au/good-faith-policy&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="housekeeping">housekeeping&lt;/h2>
-&lt;p>&lt;img src="assets/img/broom.gif" alt="">&lt;/p>
+&lt;p>&lt;img src="../assets/img/broom.gif" alt="">&lt;/p>
 &lt;hr>
 
 
@@ -215,7 +249,7 @@
  class="center">
  
 &lt;h1 id="reverse-engineering">reverse engineering&lt;/h1>
-&lt;h3 id="6441-week8">6441 week8&lt;/h3>
+&lt;h3 id="6841-week8">6841 week8&lt;/h3>
 &lt;hr>
 &lt;h2 id="good-faith-policy">good faith policy&lt;/h2>
 &lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
@@ -251,6 +285,7 @@
 
 &lt;section data-shortcode-section>
 &lt;h3 id="why-reverse-engineer">why reverse engineer&lt;/h3>
+&lt;p>malware&lt;/p>
 
 &lt;/section>
 &lt;hr>
@@ -260,38 +295,4 @@
 &lt;h3 id="static-analysis">static analysis&lt;/h3>
 &lt;p>&lt;em>disassembling&lt;/em>: examine an executable without running it&lt;/p>
 &lt;blockquote>
-&lt;p>e.g. ida, ghidra, radare, binary ninja&lt;/p></description></item><item><title>Week05</title><link>/5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/5/</guid><description>&lt;h2 id="well-get-started-at-1805">We&amp;rsquo;ll get started at 18:05&lt;/h2>
-&lt;hr>
-
-&lt;section data-noprocess data-shortcode-slide
- class="center">
- 
-&lt;h1 id="format-strings">format strings&lt;/h1>
-&lt;h3 id="6441-week05">6441 Week05&lt;/h3>
-&lt;hr>
-&lt;h2 id="good-faith-policy">good faith policy&lt;/h2>
-&lt;p>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/p>
-&lt;p>&lt;em>tldr: don&amp;rsquo;t be a &lt;del>dick&lt;/del> jerk&lt;/em>&lt;/p>
-&lt;p>&lt;a href="https://sec.edu.au/good-faith-policy">sec.edu.au/good-faith-policy&lt;/a>&lt;/p>
-&lt;hr>
-
-
-&lt;section data-shortcode-section>
-&lt;h2 id="housekeeping">housekeeping&lt;/h2>
-&lt;p>&lt;img src="assets/img/broom.gif" alt="">&lt;/p>
-&lt;hr>
-&lt;h3 id="make-sure-youre-doing-the-extended-challenges">make sure you&amp;rsquo;re doing the extended challenges&lt;/h3>
-&lt;p>buffer overflows, format strings, xss, sqli&lt;/p>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-
-&lt;/section>
-&lt;hr>
-
-
-&lt;section data-shortcode-section>
-&lt;h2 id="questions">questions&lt;/h2>
-&lt;hr>
-&lt;h3 id="publicprivate-keys">public/private keys&lt;/h3>
-&lt;p>if 10 people wanted to communicate privately (one-on-one), how many:&lt;/p></description></item></channel></rss>
+&lt;p>e.g. ida, ghidra, radare, binary ninja&lt;/p></description></item></channel></rss>
