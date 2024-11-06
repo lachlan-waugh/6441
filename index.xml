@@ -276,23 +276,26 @@
 &lt;p>&lt;del>We expect a high standard of professionalism from you at all times while you are taking any of our courses. We expect all students to act in good faith at all times&lt;/del>&lt;/p>
 &lt;p>&lt;del>&lt;a href="https://sec.edu.au/good-faith-policy">sec.edu.au/good-faith-policy&lt;/a>&lt;/del>&lt;/p>
 &lt;blockquote>
-&lt;p>do this irl its really cool&lt;/p>
+&lt;p>do this irl its really fun&lt;/p>
 &lt;/blockquote>
 &lt;hr>
-&lt;h3 id="shilling">shilling&lt;/h3>
-&lt;hr>
 
 
 &lt;section data-shortcode-section>
-&lt;h3 id="why-reverse-engineer">why reverse engineer&lt;/h3>
-&lt;p>malware&lt;/p>
-
-&lt;/section>
+&lt;h3 id="whoami">whoami&lt;/h3>
+&lt;ul>
+&lt;li>lachlan/melon&lt;/li>
+&lt;li>security engineer @ google
+&lt;ul>
+&lt;li>detection eng stuff&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>teach &lt;code>644[357]&lt;/code>
+&lt;ul>
+&lt;li>may meet some of you next year&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
 &lt;hr>
-
-
-&lt;section data-shortcode-section>
-&lt;h3 id="static-analysis">static analysis&lt;/h3>
-&lt;p>&lt;em>disassembling&lt;/em>: examine an executable without running it&lt;/p>
-&lt;blockquote>
-&lt;p>e.g. ida, ghidra, radare, binary ninja&lt;/p></description></item></channel></rss>
+&lt;h3 id="where-slides">where slides&lt;/h3>
+&lt;p>might be on webcms but I dont have access to that ll&lt;/p></description></item></channel></rss>
