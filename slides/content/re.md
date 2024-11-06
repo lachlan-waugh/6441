@@ -33,6 +33,8 @@ outputs: ["Reveal"]
 
 ### why reverse engineer
 
+malware
+
 {{% /section %}}
 
 ---
